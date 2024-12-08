@@ -1,5 +1,1 @@
-**PDF Processing and Search:** Extracts text from PDFs, splits it into chunks, and converts it into vector
-embeddings using FAISS and Google Generative AI for efficient retrieval.
-**Conversational AI Interface:** Builds an interactive Streamlit app for natural language QA on uploaded PDFs
-using LangChain and Google’s Generative AI.
-**Technologies used: **ML,NLP,LLM
+The project involves PDF Processing and Search, where text is extracted from PDFs, segmented into manageable chunks, and converted into vector embeddings using FAISS and Google Generative AI to enable efficient retrieval. Additionally, it includes a Conversational AI Interface, which leverages LangChain and Google’s Generative AI to create an interactive Streamlit application for natural language question-answering based on uploaded PDFs. The implementation relies on technologies such as ML, NLP, and LLMs.
